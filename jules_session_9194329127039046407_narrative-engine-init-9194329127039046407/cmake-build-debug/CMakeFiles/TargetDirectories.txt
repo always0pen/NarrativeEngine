@@ -1,0 +1,8 @@
+/Users/erikblad/Downloads/jules_session_9194329127039046407_narrative-engine-init-9194329127039046407/cmake-build-debug/CMakeFiles/core.dir
+/Users/erikblad/Downloads/jules_session_9194329127039046407_narrative-engine-init-9194329127039046407/cmake-build-debug/CMakeFiles/narrative_engine.dir
+/Users/erikblad/Downloads/jules_session_9194329127039046407_narrative-engine-init-9194329127039046407/cmake-build-debug/CMakeFiles/test_board.dir
+/Users/erikblad/Downloads/jules_session_9194329127039046407_narrative-engine-init-9194329127039046407/cmake-build-debug/CMakeFiles/test_simd.dir
+/Users/erikblad/Downloads/jules_session_9194329127039046407_narrative-engine-init-9194329127039046407/cmake-build-debug/CMakeFiles/test_tensor.dir
+/Users/erikblad/Downloads/jules_session_9194329127039046407_narrative-engine-init-9194329127039046407/cmake-build-debug/CMakeFiles/test.dir
+/Users/erikblad/Downloads/jules_session_9194329127039046407_narrative-engine-init-9194329127039046407/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/erikblad/Downloads/jules_session_9194329127039046407_narrative-engine-init-9194329127039046407/cmake-build-debug/CMakeFiles/rebuild_cache.dir
